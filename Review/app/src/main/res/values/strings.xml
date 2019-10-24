@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Review</string>
+    <string name="a_title">Rom</string>
+	<string name="b_title">ScreenShoot</string>
+	<string name="c_title">Tangkapan Layar</string>
+		
+		
+		
+</resources>
