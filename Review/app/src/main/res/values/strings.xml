@@ -5,7 +5,7 @@
     <string name="a_title">Rom</string>
 	<string name="b_title">ScreenShoot</string>
 	<string name="c_title">Tangkapan Layar</string>
-		
+	<string name="toast_clicked_a">Keluar kak...</string>
 		
 		
 </resources>
